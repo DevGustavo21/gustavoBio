@@ -11,3 +11,6 @@ Ey, que tal? Bienvenido a mi biografia, te cuento un poco de lo que se 👇
 
 Actualmente estoy estudiando Laravel📌
 
+![Alt Text](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+
+
